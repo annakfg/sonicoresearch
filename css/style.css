@@ -9,7 +9,7 @@ body {
   line-height: 1.7;
   color: gray;
   font-weight: 300;
-  font-size: 1.1rem; }
+  font-size: 1.2rem; }
 
 ::-moz-selection {
   background: #000;
@@ -692,7 +692,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .intro-section, .intro-section .container .row {
     height: 100vh;
-    min-height: 1200px; }
+    min-height: 1000px; }
   .intro-section:before {
     content: "";
     position: absolute;
@@ -709,8 +709,8 @@ h1, h2, h3, h4, h5,
     color: #fff; }
   .intro-section p {
     color: rgba(255, 255, 255, 0.5);
-    font-size: 1.1rem;
-    max-width: 400px; }
+    font-size: 1.3rem;
+    max-width: 550px; }
     @media (max-width: 991.98px) {
       .intro-section p {
         min-width: 100%; } }
@@ -783,7 +783,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     background: #352961;
     padding: 30px;
-    max-width: 300px;
+    max-width: 400px;
     bottom: -20%;
     right: -20%; }
     @media (max-width: 991.98px) {
@@ -795,13 +795,13 @@ h1, h2, h3, h4, h5,
         max-width: 100%; } }
     .image-absolute-box .box .icon-wrap {
       color: #fff;
-      margin-bottom: 1.5rem; }
+      margin-bottom: 1.1rem; }
       .image-absolute-box .box .icon-wrap span {
         font-size: 2rem; }
     .image-absolute-box .box h3 {
       font-size: 1.2rem;
       color: #fff;
-      margin-bottom: 1.5rem; }
+      margin-bottom: 1.1rem; }
     .image-absolute-box .box p {
       color: rgba(255, 255, 255, 0.55); }
 
