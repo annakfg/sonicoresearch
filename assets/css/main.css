@@ -2992,6 +2992,34 @@ input, select, textarea {
 
     }
 
+/* Articles */
+  .articles {
+    color: inherit;
+  }
+
+    .articles__list {
+      list-style-type: none;
+      text-align: left;
+    }
+
+    .articles__item {
+      padding: 0.5em;
+    }
+
+    .articles__icon {
+      margin-left: -40px!important; 
+      margin-right: 10px!important;
+    }
+
+    .articles__link {
+      font-style: italic;
+    }
+
+    .articles__author {
+      font-weight: bold;
+    }
+
+
 /* Spotlight */
 
   .spotlight {
